@@ -1,6 +1,6 @@
 {
   "name": "supertime",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple timer module with nanotim precission",
   "main": "src/app.js",
   "scripts": {
