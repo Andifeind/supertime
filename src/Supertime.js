@@ -1,3 +1,5 @@
+'use strict'
+
 class Supertime {
   constructor() {
     this.hrtime = process.hrtime()
