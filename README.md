@@ -1,6 +1,8 @@
 Supertime
 =========
 
+[![Build Status](https://travis-ci.org/Andifeind/supertime.svg?branch=master)](https://travis-ci.org/Andifeind/supertime)
+
 High precision timer module for node.js.
 It calculates a timespan in nanosecond precision.
 
