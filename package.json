@@ -1,0 +1,34 @@
+{
+  "name": "supertime",
+  "version": "0.0.0",
+  "description": "Simple timer module with nanotim precission",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --reporter lagoon-reporter test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andifeind/supertime.git"
+  },
+  "keywords": [
+    "time",
+    "timer",
+    "timeing",
+    "supertime",
+    "supertimer",
+    "counter",
+    "countdown"
+  ],
+  "author": "Andi Heinkelein <andifeind@noname-media.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andifeind/supertime/issues"
+  },
+  "homepage": "https://github.com/Andifeind/supertime#readme",
+  "devDependencies": {
+    "inspect.js": "^1.6.1",
+    "lagoon-reporter": "^0.3.4",
+    "mocha": "^3.5.0",
+    "sinon": "^3.2.1"
+  }
+}
